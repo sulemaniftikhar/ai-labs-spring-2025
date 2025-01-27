@@ -1,0 +1,2 @@
+
+There is a cleaning robot named “AutoCleaner”. The room has the shape of a rectangle. It needs to calculate the room and wants the length, width and height of the room. Create a function “Calculate_Area(length, width)” and return the calculated area. The Calculate_Volume(length, width, height) function takes the length, width and height as parameters and returns the calculated volume. Take the length, width and height of a rectangle from user. The program then display the area and volume of the rectangle in main function. After this, display “Cleaning Starts…”.

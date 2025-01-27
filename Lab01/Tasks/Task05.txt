@@ -1,0 +1,6 @@
+Draw this pattern. Take input from the user for maximum no. of rows.
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 

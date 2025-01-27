@@ -1,0 +1,1 @@
+Write a program in Python to swap two numbers. Take two variables “num1” and “num2”. Assign values to both variables. Swap both numbers without using a third variable. Display output using String formatting %d (use for integers).

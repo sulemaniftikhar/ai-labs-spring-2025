@@ -1,0 +1,1 @@
+Write a calculator program in Python using ADD, SUB, SQUARE, CUBE functions. Take input values of Two numbers, an Operator and call the corresponding functions to perform these tasks.

@@ -1,0 +1,1 @@
+Take input of all the courses you have studied till now, then print last course assigned in the list. Display output using String formatting %s (use for string).
