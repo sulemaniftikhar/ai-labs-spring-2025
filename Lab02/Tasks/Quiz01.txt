@@ -1,0 +1,1 @@
+Check if a number is prime or not. Create a function named “CheckPrime(num)”. Take input from user for the number to check prime. Display output with string formatting variables for the integer number.
