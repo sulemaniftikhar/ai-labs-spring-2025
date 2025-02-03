@@ -1,0 +1,12 @@
+Task  4 :  
+A city wants to develop a navigation system that helps users find the shortest route between two 
+locations. The city is represented as a graph, where intersections (nodes) are connected by roads 
+(edges) with weights representing distances.  
+Graph Representation:  
+•   Nodes:   Locations  
+•   Edges:   Roads connecting locations, weighted by the distance between them.  
+Operations:  
+1.   Add locations and roads   to the city network.  
+2.   Display the city map  
+ 
+Note:  Use class concepts and graphs for writing this program.

@@ -1,0 +1,13 @@
+A  library   categorizes books into different  genres   to manage its collection efficiently. Perform 
+various operations using built - in set functions.  
+Create a  class named "Library" , which includes:  
+•   Four sets representing different book genres:  Fiction, Non - Fiction, Science, History  
+•   A  member function to add a   book   to a specific genre.  
+•   A  member function to remove a book   from a genre.  
+•   A  member function to check if a book exists   in a particular genre.  
+•   A  member function to perform set operations :  
+o   Union   (books across multiple genres).  
+o   Intersection   (books common in selected genres).  
+o   Difference   (books that belong to one genre but not another).  
+ 
+Note:  Use built - in functions for sets in this task.

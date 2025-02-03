@@ -1,0 +1,11 @@
+A  smart  irrigation  system   named  "AquaFlow"   is  used  to  efficiently  water  rectangular  fields. 
+To determine the water requirements, the system must calculate the  area   and  volume   of the field.  
+Create a class named  "AquaFlow" , where:  
+•   The user provides the  length ,  width , and  depth   of the field.  
+•   A  member function Calculate_area()   computes the area of the field.  
+•   A  member function Calculate_volume()   computes the water volume required if the field 
+is to be irrigated up to a given depth.  
+•   A  member function display()   shows the calculated area and volume.  
+•   At the end, the program prints:  "Irrigation Starts..."
+
+Note:  Use tuple for input values.

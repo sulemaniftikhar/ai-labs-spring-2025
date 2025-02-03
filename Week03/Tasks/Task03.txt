@@ -1,0 +1,23 @@
+Create a system that asks the user about their car's condition and determines whether it needs 
+maintenance. Use a dictionary to store predefined issue weights.  
+ 
+Signs that a car needs maintenance may include:  
+Engine noise: 4  
+Check engine light: 5  
+Poor fuel efficiency: 3  
+Strange vibrations: 3  
+Difficulty starting: 4  
+Braking issues: 5  
+Unusual exhaust smoke: 4  
+Steering problems: 3  
+Instructions:  
+Ask the user if they are experiencing each issue (Yes = 1, No = 0).  
+Sum the issue weights based on the user’s input.  
+Define a threshold of 15 to determine if maintenance is needed.  
+Output Statements:  
+If the total score is above the threshold (15):  
+"Based on the issues reported, your car may require maintenance. It is recommended to visit a 
+mechanic for a thorough inspection."  
+  If the total score is below the threshold:  
+"Based on the issues reported, your car does not seem to require immediate maintenance. 
+However, if you are concerned, consulting a mechanic is always a good idea."
